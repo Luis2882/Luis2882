@@ -26,8 +26,8 @@ Atualmente, venho aprofundando meus conhecimentos na construção de pipelines d
 
 ### 📬 Vamos nos conectar?
 
-[![LinkedIn](https://www.linkedin.com/in/luis-felipe-motta-da-cunha-7532661b9/?locale=pt)
-[![Portfolio](https://github.com/Luis2882?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-motta-da-cunha-7532661b9/?locale=pt)
+[![Portfolio](https://img.shields.io/badge/Portfólio-10B981?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Luis2882?tab=repositories)
 
 ---
 *✨ "In God we trust. All others must bring data." — W. Edwards Deming*
